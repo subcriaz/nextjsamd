@@ -1,6 +1,11 @@
 ---
+<<<<<<< HEAD
 title: 'bahriatown-peshawar.com.pk &  bahriatown-peshawar.pk'
 date: '2020-01-02'
+=======
+title: 'http://www.bahriatown-peshawar.pk & http://www.bahriatown-peshawar.com.pk , contact Infosoft Services;  iserv92@gmail.com'
+date: '2020-09-28'
+>>>>>>> 3a6247f3ca58aec0c111b9e2eb00f07d33c243e1
 ---
 
 We recommend using **Static Generation** (with and without data) whenever possible because your page can be built once and served by CDN, which makes it much faster than having a server render the page on every request.
