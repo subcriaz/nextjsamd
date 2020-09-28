@@ -5,12 +5,28 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "start": "next start"
+    "start": "next start -p $PORT",
+    "heroku-postbuild": "npm run build"
   },
   "dependencies": {
     "gray-matter": "^4.0.2",
     "next": "9.5.3",
     "react": "16.13.1",
     "react-dom": "16.13.1"
-  }
+  },
+  "description": "This is a starter template for [Learn Next.js](https://nextjs.org/learn).",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/subcriaz/nextjsamd.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/subcriaz/nextjsamd/issues"
+  },
+  "homepage": "https://github.com/subcriaz/nextjsamd#readme"
 }

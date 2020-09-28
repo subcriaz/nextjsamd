@@ -7,7 +7,7 @@ export default function Home({ allPostsData }) {
   return (
     <Layout home>
       <Head>…</Head>
-      <section className={utilStyles.headingMd}> okey . </section>
+      <section className={utilStyles.headingMd}> contact: Infosoft Services : iserv92@gmail.com </section>
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
         <h2 className={utilStyles.headingLg}>My Blog</h2>
         <ul className={utilStyles.list}>
